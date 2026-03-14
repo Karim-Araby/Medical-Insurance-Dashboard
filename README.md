@@ -1,4 +1,3 @@
-
 # Overview
 
 The Medical Insurance Dashboard presents key metrics and visual analytics for insurance data, allowing users to quickly identify trends and cost drivers.
