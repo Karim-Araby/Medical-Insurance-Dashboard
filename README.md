@@ -1,4 +1,4 @@
-![Medical Insurance Dashboard](Medical insurance dashboard.png)
+![Medical Insurance Dashboard](Medicalinsurancedashboard.png)
 
 # Overview
 
